@@ -3,8 +3,8 @@
 <img src="https://giffiles.alphacoders.com/129/12938.gif" alt="">
 
 ![Zodrick2022's Stats](https://github-readme-stats.vercel.app/api?username=Zodrick2022&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![Zodrick2022's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zodrick2022&theme=midnight-purple&hide_border=true)
-![Zodrick2022's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodrick2022&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![Zodrick2022's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zodrick2022&theme=midnight-purple&hide_border=true) <br>
+![Zodrick2022's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zodrick2022&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact) 
 ![](https://github-profile-trophy.vercel.app/?username=zodrick2022&theme=tokyonight)
 
 
