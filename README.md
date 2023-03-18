@@ -9,8 +9,7 @@
 
 
 **Zodrick2022/ZODRICK2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<br>
 Español/Spanish <br>
 Hola :), soy Eduard Paredes o Zodrick2022, soy de colombia, vivo en bogota(si soy rolo) y actualmente tengo 18 años, estoy estudiando un tecnologo en ADSI, en el SENA, me gusta mucho los videojuegos sobre todos los apocalipticos, shooter y de carreras, algunos ejemplos son el The Last to UsMad Max(el video juego),Halo y COD, La saga de Forza Horizon, entre otros. 
 <br>
