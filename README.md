@@ -12,6 +12,7 @@
 
 Here are some ideas to get you started:
 Español/Spanish
-Hola :), como ya has visto en el principio soy Eduard Paredes o Zodrick2022, soy de colombia, vivo en bogota(si soy rolo) y actualmente tengo 18 años, estoy estudiando un tecnologo en Analisis y Diseño de sistemas de Informacion o ADSI, en el SENA, me gusta mucho los videojuegos sobre todos los apocalipticos, shooter y de carreras, algunos ejemplos son el The Last to Us, Led 4 ded, Mad Max(el video juego), La saga de Halo y COD, La saga de Forza Horizon, entre otros. 
+Hola :), soy Eduard Paredes o Zodrick2022, soy de colombia, vivo en bogota(si soy rolo) y actualmente tengo 18 años, estoy estudiando un tecnologo en ADSI, en el SENA, me gusta mucho los videojuegos sobre todos los apocalipticos, shooter y de carreras, algunos ejemplos son el The Last to UsMad Max(el video juego),Halo y COD, La saga de Forza Horizon, entre otros. 
+<br>
 English/Ingles
-Hello :), as you have already seen at the beginning, I am Eduard Paredes or Zodrick2022, I am from Colombia, I live in Bogota (yes, I am Rolo) and I am currently 18 years old, I am studying a technology in Analysis and Design of Information Systems or ADSI, At SENA, I really like video games about all the apocalyptic, shooter and racing games, some examples are The Last to Us, Led 4th, Mad Max (the video game), The Halo saga and COD, The saga of Forza Horizon, among others.
+Hi :), I'm Eduard Paredes or Zodrick2022, I'm from Colombia, I live in Bogota (yes, I'm a rolo) and I'm currently 18 years old, I'm studying as a technologist at ADSI, at SENA, I really like video games about all apocalyptic, shooter and racing, some examples are The Last to Us, Mad Max (the video game), Halo and COD, The Forza Horizon saga, among others.
